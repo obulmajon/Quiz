@@ -1,2 +1,2 @@
 # Quiz
-test uchun
+Updated in local 
