@@ -1,2 +1,2 @@
 # Quiz
-test uchun
+updated in remote repositor
